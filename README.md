@@ -1,0 +1,1 @@
+# This contains the assignments and projects developed as part of my AI and Data Science course at SMIT. It includes a wide range of topics and practical applications in Artificial Intelligence, Machine Learning, Deep Learning and Data Science.
